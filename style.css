@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+header{
+    text-align: center;
+    color:forestgreen;
+    background-color: rgb(29, 59, 29);
+}
+.header h1{
+    margin: 0px;
+}
+.photo{
+    display: flex;
+    background-color: rgb(240, 237, 237);
+}
+.half-width{
+    width:50%;
+    padding-left: 30px;
+    margin-top:40px;
+}
+.half-width img{
+    width:100%;
+}
+.Description{
+    margin-bottom:-15px;
+}
+.buy-button{
+    text-decoration: none;
+    font-weight: 700;
+    color:white;
+    padding:10px 40px;
+    border-radius:3px;
+    background-image: linear-gradient(forestgreen, green);
+}
