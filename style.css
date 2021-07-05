@@ -39,3 +39,6 @@ header{
     border-radius:3px;
     background-image: linear-gradient(forestgreen, green);
 }
+footer p{
+    text-align: center;
+}
