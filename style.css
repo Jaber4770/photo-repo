@@ -18,7 +18,6 @@ header{
 }
 .photo{
     display: flex;
-    background-color: rgb(240, 237, 237);
 }
 .half-width{
     width:50%;
@@ -41,4 +40,10 @@ header{
 }
 footer p{
     text-align: center;
+}
+.bg-img{
+    background-image: url(images/);
+    background-repeat: no-repeat;
+
+
 }
